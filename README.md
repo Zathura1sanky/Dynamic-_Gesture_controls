@@ -32,7 +32,7 @@ The Test accuracies were as follows:
 
 For both the models, I actually used the exact same architectures I implemented in the [Digits Recognition](https://github.com/akshaychandra111/Digits_Recognition_RealTime) project (for obvious 'extended' reasons).
 
-
+<!-- 
 ## Execution
 Order of Execution is as follows:
 
@@ -45,3 +45,4 @@ Step 3 - This could take a while, so feel free to take a quick nap.
 Step 4 - Execute ``` python alphabet_recognition.py ```
 
 Step 5 - Grab a blue bottle cap and have fun!
+ -->
