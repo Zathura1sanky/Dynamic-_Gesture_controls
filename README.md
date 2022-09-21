@@ -32,8 +32,6 @@ The Test accuracies were as follows:
 
 For both the models, I actually used the exact same architectures I implemented in the [Digits Recognition](https://github.com/akshaychandra111/Digits_Recognition_RealTime) project (for obvious 'extended' reasons).
 
-## Code Explanation
-I have written [a tutorial post on medium](https://medium.com/@akshaychandra21/97e697b8fb86) explaining the code.
 
 ## Execution
 Order of Execution is as follows:
