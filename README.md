@@ -1,4 +1,4 @@
-### [UPDATE]: I will not be responding to issues or emails related to this repo anymore as I am currently occupied with other research commitments. Also, the libraries used are pretty old and outdated. Thank you.
+
 
 # Alphabet Recognition Through Gestures [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/akshaychandra21/Alphabet_Recognition_RealTime/blob/master/LICENSE.txt)
 
