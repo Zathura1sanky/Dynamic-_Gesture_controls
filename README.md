@@ -4,8 +4,7 @@
 
 This deep learning application in python recognizes alphabet through gestures captured real time on a webcam. The user is allowed to write the alphabet on the screen using an object-of-interest (a water bottle cap in this case).
 
-## Working Example
-<img src="demo.gif">
+
 
 ## Code Requirements
 The code is in Python (version 3.6 or higher). You also need to install OpenCV and Keras (2.1.4 version) libraries.
